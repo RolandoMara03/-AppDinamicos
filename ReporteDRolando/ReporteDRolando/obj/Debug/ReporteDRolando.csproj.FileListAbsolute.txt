@@ -1,0 +1,11 @@
+C:\Users\CCBB20\source\repos\ReporteDRolando\ReporteDRolando\bin\Debug\ReporteDRolando.exe.config
+C:\Users\CCBB20\source\repos\ReporteDRolando\ReporteDRolando\bin\Debug\ReporteDRolando.exe
+C:\Users\CCBB20\source\repos\ReporteDRolando\ReporteDRolando\bin\Debug\ReporteDRolando.pdb
+C:\Users\CCBB20\source\repos\ReporteDRolando\ReporteDRolando\obj\Debug\ReporteDRolando.csprojAssemblyReference.cache
+C:\Users\CCBB20\source\repos\ReporteDRolando\ReporteDRolando\obj\Debug\ReporteDRolando.Form1.resources
+C:\Users\CCBB20\source\repos\ReporteDRolando\ReporteDRolando\obj\Debug\ReporteDRolando.Properties.Resources.resources
+C:\Users\CCBB20\source\repos\ReporteDRolando\ReporteDRolando\obj\Debug\ReporteDRolando.csproj.GenerateResource.cache
+C:\Users\CCBB20\source\repos\ReporteDRolando\ReporteDRolando\obj\Debug\ReporteDRolando.csproj.CoreCompileInputs.cache
+C:\Users\CCBB20\source\repos\ReporteDRolando\ReporteDRolando\obj\Debug\ReporteDRolando.exe
+C:\Users\CCBB20\source\repos\ReporteDRolando\ReporteDRolando\obj\Debug\ReporteDRolando.pdb
+C:\Users\CCBB20\source\repos\ReporteDRolando\ReporteDRolando\obj\Debug\ReporteDRolando.View.MenuP.resources
